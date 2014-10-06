@@ -483,3 +483,77 @@ input[type="submit"] {
             padding-left: 1em;
             text-align: left;
             width: 12em; } }
+
+/* line 278, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+.footer-2 {
+  background: #40526b;
+  padding: 1.5em;
+  width: 100%; }
+  /* line 288, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+  .footer-2 .footer-logo {
+    margin-right: 1em;
+    margin-bottom: 1em; }
+    @media screen and (min-width: 53.75em) {
+      /* line 288, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+      .footer-2 .footer-logo {
+        float: left;
+        margin-bottom: 0; } }
+  /* line 298, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+  .footer-2 .footer-logo img {
+    height: 1.6em; }
+  /* line 302, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+  .footer-2 ul {
+    margin-bottom: 1em; }
+    @media screen and (min-width: 53.75em) {
+      /* line 302, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+      .footer-2 ul {
+        float: left;
+        margin-left: 1em;
+        margin-bottom: 0; } }
+  /* line 311, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+  .footer-2 ul li {
+    padding-right: 1em;
+    font-weight: 800; }
+    @media screen and (min-width: 53.75em) {
+      /* line 311, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+      .footer-2 ul li {
+        display: inline;
+        text-align: left; } }
+  /* line 321, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+  .footer-2 ul li a {
+    color: rgba(255, 255, 255, 0.4); }
+    /* line 324, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+    .footer-2 ul li a:hover {
+      color: white; }
+  @media screen and (min-width: 53.75em) {
+    /* line 329, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+    .footer-2 .footer-secondary-links {
+      float: right; } }
+  /* line 334, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+  .footer-2 .footer-secondary-links li {
+    font-size: .8em;
+    font-weight: 400; }
+  /* line 339, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+  .footer-2 .footer-secondary-links ul.footer-social {
+    margin-top: 1em; }
+    @media screen and (min-width: 53.75em) {
+      /* line 339, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+      .footer-2 .footer-secondary-links ul.footer-social {
+        float: right;
+        margin-top: 0; } }
+    /* line 347, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+    .footer-2 .footer-secondary-links ul.footer-social li {
+      float: left;
+      font-size: 1em;
+      padding-right: .7em; }
+      /* line 352, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+      .footer-2 .footer-secondary-links ul.footer-social li:last-child {
+        padding-right: 0; }
+    /* line 357, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+    .footer-2 .footer-secondary-links ul.footer-social img {
+      opacity: .7;
+      height: 1.6em;
+      padding: 1px; }
+      /* line 362, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
+      .footer-2 .footer-secondary-links ul.footer-social img:hover {
+        opacity: 1; }
