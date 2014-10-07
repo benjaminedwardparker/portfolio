@@ -536,6 +536,7 @@ html, body {
     @media screen and (min-width: 53.75em) {
       /* line 312, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
       .footer-2 ul li {
+        display: inline;
         text-align: left; } }
   /* line 322, /Users/benjaminparker/ruby/portfolio/source/stylesheets/all.scss */
   .footer-2 ul li a {
